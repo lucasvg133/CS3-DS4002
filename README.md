@@ -1,7 +1,8 @@
 # Dog Imaging Case Study
-CS3-DS4002
+CS3-DS4002            Lucas Vallarino
 
-Lucas Vallarino
+
+![selection-of-different-breeds](https://github.com/user-attachments/assets/60c7ba56-57e8-4143-9bad-9b0e84aeb661)
 
 
 # Hook and Rubric Documents
